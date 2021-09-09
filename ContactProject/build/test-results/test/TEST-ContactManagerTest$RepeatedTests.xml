@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContactManagerTest$RepeatedTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-09T16:06:00" hostname="DESKTOP-NMS6AE6" time="0.007">
+  <properties/>
+  <testcase name="Repeating Contact Creation Test 1 of 5" classname="ContactManagerTest$RepeatedTests" time="0.001"/>
+  <testcase name="Repeating Contact Creation Test 2 of 5" classname="ContactManagerTest$RepeatedTests" time="0.001"/>
+  <testcase name="Repeating Contact Creation Test 3 of 5" classname="ContactManagerTest$RepeatedTests" time="0.0"/>
+  <testcase name="Repeating Contact Creation Test 4 of 5" classname="ContactManagerTest$RepeatedTests" time="0.0"/>
+  <testcase name="Repeating Contact Creation Test 5 of 5" classname="ContactManagerTest$RepeatedTests" time="0.001"/>
+  <system-out><![CDATA[Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

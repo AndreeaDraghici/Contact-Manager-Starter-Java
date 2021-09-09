@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContactManagerTest" tests="11" skipped="3" failures="0" errors="0" timestamp="2021-09-09T16:06:00" hostname="DESKTOP-NMS6AE6" time="0.09">
+  <properties/>
+  <testcase name="Should Create Contact" classname="ContactManagerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="[1] 0123456789" classname="ContactManagerTest" time="0.047"/>
+  <testcase name="[2] 0123456798" classname="ContactManagerTest" time="0.002"/>
+  <testcase name="[3] 0123456897" classname="ContactManagerTest" time="0.001"/>
+  <testcase name="Test Should Be Disabled" classname="ContactManagerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Should Not Create Contact When Phone Number is Null" classname="ContactManagerTest" time="0.003"/>
+  <testcase name="Phone Number should start with 0" classname="ContactManagerTest" time="0.001"/>
+  <testcase name="Should Not Create Contact When First Name is Null" classname="ContactManagerTest" time="0.001"/>
+  <testcase name="Should Not Create Contact When Last Name is Null" classname="ContactManagerTest" time="0.001"/>
+  <testcase name="Test Contact Creation on Developer Machine" classname="ContactManagerTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="Should Create Contact" classname="ContactManagerTest" time="0.001"/>
+  <system-out><![CDATA[Should Print Before All Tests
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Instantiating Contact Manager
+Should Execute After Each Test
+Should be executed at the end of the Test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
